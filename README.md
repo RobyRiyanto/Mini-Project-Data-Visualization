@@ -9,4 +9,4 @@ Beberapa spesifikasi yang harus diperhatikan:
 - Title dan axis label harus ada, tulisan dan style-nya silakan disesuaikan sendiri
 
 ## Result
-![](Daily number of customers on Desember.png)
+![](Daily_number_of_customers_on_Desember.png)
