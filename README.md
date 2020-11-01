@@ -1,6 +1,6 @@
 # Mini Project dari [DQLab Academy](https://dqlab.id)
 
-Dengan menggunakan dataset pada link [ini](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/retail_raw_reduced.csv. 
+Dengan menggunakan dataset pada link [ini](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/retail_raw_reduced.csv).
 
 ## Part 1
 
